@@ -1,4 +1,7 @@
-# test coverage for  [gemini (v4.18.1)](https://github.com/gemini-testing/gemini)  [![npm package](https://img.shields.io/npm/v/npmtest-gemini.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gemini) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gemini.svg)](https://travis-ci.org/npmtest/node-npmtest-gemini)
+# npmtest-gemini
+
+#### basic test coverage for  [gemini (v4.18.1)](https://github.com/gemini-testing/gemini)  [![npm package](https://img.shields.io/npm/v/npmtest-gemini.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gemini) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gemini.svg)](https://travis-ci.org/npmtest/node-npmtest-gemini)
+
 #### UI Screenshot testing utility
 
 [![NPM](https://nodei.co/npm/gemini.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gemini)
